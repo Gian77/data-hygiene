@@ -1,1 +1,1 @@
-# data-hygeine
+# data-hygiene
