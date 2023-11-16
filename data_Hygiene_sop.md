@@ -1,7 +1,7 @@
-# Data Hygeine
+# Data Hygiene
 
 MIT LICENSE - Copyright © 2023 Gian M N Benucci<br>
-For more please contact me at benucci[at]msu[dot]edu\n"<br>
+For more please contact me at benucci[at]msu[dot]edu<br>
 and visit [https://github.com/Gian77](https://github.com/Gian77)<br>
 
 # *What is data Hygeine?*
@@ -67,7 +67,9 @@ An organized project directory structure contains several directories to store, 
    >__NOTE__<br>
    > To make sure that all these directories are good to go in github, do not forget to add a `README.md` in each of them. Remember, GitHub keeps track of files not directories.
 
-* Another file you want to have, if you are planning to push your project directory on GitHub, is the `.gitignore` file. In this file you should include all the files you do not want to be track by git. For example, .fastq files.
+* Another file you want to have, if you are planning to push your project directory on GitHub, is the `.gitignore` file. In this file you should include all the files you do not want to be track by git. For example, `.fastq` files.
+
+* Useful, is a `config.yml` file, with paths, symbolic links, and such.
 
 # General rules on files and workflows
 
